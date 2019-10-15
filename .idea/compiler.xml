@@ -10,5 +10,6 @@
         <module name="com.oracool.shiftlab.cart" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel target="10" />
   </component>
 </project>
